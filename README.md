@@ -1,6 +1,6 @@
 # 🎮 Connect 4 Game
 
-A simple and interactive implementation of the classic **Connect 4** game. Built using [insert technologies here – e.g., HTML/CSS/JS, React, Python, etc.], this game allows two players to take turns and enjoy a strategic match of aligning four discs in a row.
+A simple and interactive implementation of the classic **Connect 4** game. Built using [insert technologies here – e.g., HTML/CSS/JS etc.], this game allows two players to take turns and enjoy a strategic match of aligning four discs in a row.
 
 ---
 
@@ -14,16 +14,11 @@ A simple and interactive implementation of the classic **Connect 4** game. Built
 
 - 🔄 Two-player turn-based gameplay
 - 🎯 Victory detection (horizontal, vertical, diagonal)
-- ⏱️ Real-time board updates
 - 💻 Simple and clean UI
 - 🎮 Responsive design (if applicable)
 - ♻️ Restart game button
 
 ---
-
-## 📸 Screenshots
-
-> *(Add screenshots of your game here, or a GIF showing gameplay)*
 
 ---
 
@@ -32,5 +27,5 @@ A simple and interactive implementation of the classic **Connect 4** game. Built
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/connect4-game.git
+git clone https://github.com/vinayboss9669/connect4-game.git
 cd connect4-game
