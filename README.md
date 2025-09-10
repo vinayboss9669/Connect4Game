@@ -18,6 +18,8 @@ A simple and interactive implementation of the classic **Connect 4** game. Built
 - 🎮 Responsive design (if applicable)
 - ♻️ Restart game button
 
+Note:In feature add more game because are make the life its enjoyble.
+
 ---
 
 ---
